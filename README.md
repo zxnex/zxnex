@@ -1,6 +1,6 @@
-- 👋 Hi, I’m pedro and have 18 years.
-- 👀 I’m interested in work in the programming area!
-- 🌱 I’m currently learning systems development and english.
+- Hi, I’m pedro and have 18 years.
+-  I’m interested in work in the programming area!
+-  I’m currently learning systems development and english.
 - 📫 How to reach me Email:pedro.ho.gomes04@gmail.com
 
 <!---
